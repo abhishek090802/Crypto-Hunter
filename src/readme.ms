@@ -1,0 +1,1 @@
+https://crypto-hunt.netlify.app/
